@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "427ce402-6551-93bc-d161-bf015a950ce1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Intermediate Macroeconomic Theory",
+  "course_description": "This course is a survey of modern macroeconomics at a fairly advanced level. Topics include neoclassical and new& growth theory, consumption and saving behavior, investment, and unemployment. It also includes use of the dynamic programming techniques. Assignments include problem sets and written discussions of macroeconomic events. This course is recommended for students planning to apply to graduate school in economics.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.06",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
